@@ -1,5 +1,5 @@
-Hi, I’m Rishav.
-I’m currently learning Python and C++.
+Hi, I’m Rishav.</br>
+I’m currently learning Python and C++.</br>
 How to reach me - rishav0411@gmail.com .
 
 <!---
