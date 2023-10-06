@@ -1,4 +1,4 @@
-Hi, I’m Rishav.</br>
+Hi, I’m Rishav Saha.</br>
 I’m currently learning Python and C++.</br>
 How to reach me - rishav0411@gmail.com .
 
