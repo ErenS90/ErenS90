@@ -1,5 +1,5 @@
 Hi, I’m Rishav Saha.</br>
-I’m currently learning Python and C++.</br>
+I’m currently learning Python.</br>
 How to reach me - rishav0411@gmail.com .
 
 <!---
